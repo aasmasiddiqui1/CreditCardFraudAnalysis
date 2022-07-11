@@ -30,7 +30,7 @@ Sample data set was given that captures the credit card transaction details for 
 3. Finally, when you arrive at the findings, you will create appropriate visualizations that communicate your findings to your audience. The graph below samples one such visualization that you would use to capture a trend hidden in the sample data set shared earlier on in the case study.
 
 
-In the next section you will be asked to answer the following 5 (five) questions based on this case study:
+# In the next section you will be asked to answer the following 5 (five) questions based on this case study:
 
 1. List at least 5 (five) data points that are required for the analysis and detection of a credit card fraud. (3 marks)
 
