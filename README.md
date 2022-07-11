@@ -1,4 +1,4 @@
-# CreditCardFraudAnalysis
+# IBM CreditCardFraudAnalysis Assignment
 
 Using Data Analysis for Detecting Credit Card Fraud
 Companies today are employing analytical techniques for the early detection of credit card frauds, a key factor in mitigating fraud damage. The most common type of credit card fraud does not involve the physical stealing of the card, but that of credit card credentials, which are then used for online purchases.
@@ -8,6 +8,26 @@ Imagine that you have been hired as a Data Analyst to work in the Credit Card Di
 In order to prescribe a way forward, that is, suggest what should be done in order for fraud to get detected early on, you need to understand what a fraudulent transaction looks like. And for that you need to start by looking at historical data. 
 
 Sample data set was given that captures the credit card transaction details for a few users.
+
+# Past studies have suggested that some of the common events that you may need to watch out for include:  
+
+1. A change in frequency of orders placed, for example, a customer who typically places a couple of orders a month, suddenly makes numerous transactions within a short span of time, sometimes within minutes of the previous order.
+
+2. Orders that are significantly higher than a user’s average transaction.
+
+3. Bulk orders of the same item with slight variations such as color or size—especially if this is atypical of the user’s transaction history.
+
+4. A sudden change in delivery preference, for example, a change from home or office delivery address to in-store, warehouse, or PO Box delivery.
+
+5. A mismatched IP Address, or an IP Address that is not from the general location or area of the billing address.
+
+# Before you can analyze the data for patterns and anomalies, you need to:
+
+1. Identify and gather all data points that can be of relevance to your use case. For example, the card holder’s details, transaction details, delivery details, location, and network are some of the data points that could be explored. 
+
+2. Clean the data. You need to identify and fix issues in the data that can lead to false or incomplete findings, such as missing data values and incorrect data. You may also need to standardize data formats in some cases, for example, the date fields. 
+
+3. Finally, when you arrive at the findings, you will create appropriate visualizations that communicate your findings to your audience. The graph below samples one such visualization that you would use to capture a trend hidden in the sample data set shared earlier on in the case study.
 
 
 In the next section you will be asked to answer the following 5 (five) questions based on this case study:
